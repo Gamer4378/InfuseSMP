@@ -1,0 +1,4 @@
+name: InfuseSMP
+version: '1.0'
+main: me.itzoverwolf.infusesmp.InfuseSMP
+api-version: '1.20'

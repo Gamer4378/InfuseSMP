@@ -1,0 +1,4 @@
+name: InfuseSMP
+version: '${project.version}'
+main: me.itzoverwolf.infusesmp.InfuseSMP
+api-version: '1.20'

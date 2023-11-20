@@ -1,0 +1,6 @@
+# config.yml
+lose-effects-on-death: true
+lose-effects-on-milk: false
+lose-effects-on-same-potion: false
+ban-on-eight-negative-effects: true
+max-effects: 8
